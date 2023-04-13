@@ -1,0 +1,3 @@
+$ pip install -U requests wget
+
+$ pip install -r requirements.txt
